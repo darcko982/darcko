@@ -14,4 +14,3 @@ esx_identity
 <br>
 esx_license
 
-Par YePeezFive
